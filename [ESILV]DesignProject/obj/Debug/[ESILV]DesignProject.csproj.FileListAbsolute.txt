@@ -1,0 +1,7 @@
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\bin\Debug\[ESILV]DesignProject.exe.config
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\bin\Debug\[ESILV]DesignProject.exe
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\bin\Debug\[ESILV]DesignProject.pdb
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\obj\Debug\[ESILV]DesignProject.csprojAssemblyReference.cache
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\obj\Debug\[ESILV]DesignProject.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\obj\Debug\[ESILV]DesignProject.exe
+C:\Users\Valentin\source\repos\[ESILV]DesignProject\[ESILV]DesignProject\obj\Debug\[ESILV]DesignProject.pdb
